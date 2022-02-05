@@ -8,10 +8,63 @@ Homework is not required. However, it is advisable to do since it helps you to l
 
 To do some of the problems in chapters 3, 4, and 5 you will need software to evaluate lines. You can write it yourself – it is not very difficult.
 
-| HW # | PROBLEMS |
-| --- | --- |
-| 1 | Ch. 2, #1, 4, 10, and 11 |
-| 2 | Ch. 2, #13-18 |
-| 3 | Ch. 3, #3-5, 11, 13, and 17 |
-| 4 | Ch. 3, #24, 26-28 |
-| 5 | Ch. 4, #1, 3, 5, and 9-11
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HW #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 2, #1, 4, 10, and 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 2, #13-18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 3, #3-5, 11, 13, and 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 3, #24, 26-28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ch. 4, #1, 3, 5, and 9-11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
